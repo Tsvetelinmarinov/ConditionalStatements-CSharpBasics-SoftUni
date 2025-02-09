@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Excellent Result", "01. Excellent Result\01. Excellent Result.csproj", "{E9EBBE0F-F780-4A8C-B276-70D7F0B2ADE2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bigger Number", "02. Bigger Number\02. Bigger Number.csproj", "{7A83A5AB-FF20-4FDC-A2E7-B3B17E34F3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even Or Odd", "03. Even Or Odd\03. Even Or Odd.csproj", "{655D043B-2329-48A0-853D-7B07D22F88D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Guess", "04. Password Guess\04. Password Guess.csproj", "{1874C359-B8D5-4F13-A393-1FB0D3F0C32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Guess The Number", "05. Guess The Number\05. Guess The Number.csproj", "{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{7A83A5AB-FF20-4FDC-A2E7-B3B17E34F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A83A5AB-FF20-4FDC-A2E7-B3B17E34F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A83A5AB-FF20-4FDC-A2E7-B3B17E34F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655D043B-2329-48A0-853D-7B07D22F88D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655D043B-2329-48A0-853D-7B07D22F88D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655D043B-2329-48A0-853D-7B07D22F88D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655D043B-2329-48A0-853D-7B07D22F88D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1874C359-B8D5-4F13-A393-1FB0D3F0C32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1874C359-B8D5-4F13-A393-1FB0D3F0C32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1874C359-B8D5-4F13-A393-1FB0D3F0C32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1874C359-B8D5-4F13-A393-1FB0D3F0C32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
