@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Password Guess", "04. P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Guess The Number", "05. Guess The Number\05. Guess The Number.csproj", "{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Info", "06. Speed Info\06. Speed Info.csproj", "{78E6D95C-C951-4CDC-8A6C-CF2B030D781E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Area of Figures", "07. Area of Figures\07. Area of Figures.csproj", "{A0AE5147-8892-4CB4-8232-99E9E3440B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C75E2FEA-0D60-48C5-8240-2DC24676E1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E6D95C-C951-4CDC-8A6C-CF2B030D781E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E6D95C-C951-4CDC-8A6C-CF2B030D781E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E6D95C-C951-4CDC-8A6C-CF2B030D781E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E6D95C-C951-4CDC-8A6C-CF2B030D781E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0AE5147-8892-4CB4-8232-99E9E3440B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AE5147-8892-4CB4-8232-99E9E3440B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AE5147-8892-4CB4-8232-99E9E3440B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AE5147-8892-4CB4-8232-99E9E3440B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
